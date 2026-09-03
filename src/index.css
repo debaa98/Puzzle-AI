@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; color: #243745; background: #f7f4ed; font-family: 'Nunito', ui-rounded, system-ui, sans-serif; }
+button, input, textarea { font: inherit; }
+button { cursor: pointer; }
+button:focus-visible, input:focus-visible, textarea:focus-visible { outline: 3px solid #3caa97; outline-offset: 2px; }
